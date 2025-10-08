@@ -4,6 +4,6 @@ To use system-wide Brave policies, put the `policies.json` file in the `/etc/bra
 
 ```
 sudo mkdir -p /etc/brave/policies/managed
-cp -v policies.json /etc/brave/policies/managed
+sudo cp -v policies.json /etc/brave/policies/managed
 ```
 
