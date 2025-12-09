@@ -6,6 +6,7 @@
   "BraveAIChatEnabled": false,
   "BraveNewsDisabled": true,
   "BraveTalkDisabled": true,
+  "BraveP3AEnabled": false,
   "BraveStatsPingEnabled": false,
   "BraveWebDiscoveryEnabled": false,
   "BackgroundModeEnabled": false,
